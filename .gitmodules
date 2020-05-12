@@ -1,6 +1,0 @@
-[submodule "vuejs/vue"]
-	path = vuejs/vue
-	url = https://github.com/vuejs/vue.git
-[submodule "sorrycc/awesome-javascript"]
-	path = sorrycc/awesome-javascript
-	url = https://github.com/sorrycc/awesome-javascript.git
