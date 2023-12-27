@@ -100,9 +100,6 @@
 [submodule "sirupsen/logrus"]
 	path = sirupsen/logrus
 	url = https://github.com/sirupsen/logrus.git
-[submodule "sjwhitworth/golearn"]
-	path = sjwhitworth/golearn
-	url = https://github.com/sjwhitworth/golearn.git
 [submodule "spf13/viper"]
 	path = spf13/viper
 	url = https://github.com/spf13/viper.git
