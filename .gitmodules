@@ -109,3 +109,6 @@
 [submodule "spring-projects/spring-framework"]
 	path = spring-projects/spring-framework
 	url = https://github.com/spring-projects/spring-framework.git
+[submodule "sjwhitworth/golearn"]
+	path = sjwhitworth/golearn
+	url = https://github.com/sjwhitworth/golearn.git
