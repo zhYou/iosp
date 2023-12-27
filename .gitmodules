@@ -19,3 +19,96 @@
 [submodule "gin-gonic/gin"]
 	path = gin-gonic/gin
 	url = https://github.com/gin-gonic/gin.git
+[submodule "gofiber/fiber"]
+	path = gofiber/fiber
+	url = https://github.com/gofiber/fiber.git
+[submodule "go-gorm/gorm"]
+	path = go-gorm/gorm
+	url = https://github.com/go-gorm/gorm.git
+[submodule "goinaction/code"]
+	path = goinaction/code
+	url = https://github.com/goinaction/code.git
+[submodule "go-kit/kit"]
+	path = go-kit/kit
+	url = https://github.com/go-kit/kit.git
+[submodule "golang/example"]
+	path = golang/example
+	url = https://github.com/golang/example.git
+[submodule "golang/net"]
+	path = golang/net
+	url = https://github.com/golang/net.git
+[submodule "golang/protobuf"]
+	path = golang/protobuf
+	url = https://github.com/golang/protobuf.git
+[submodule "xtaci/gonet"]
+	path = xtaci/gonet
+	url = https://github.com/xtaci/gonet.git
+[submodule "xiaonanln/goworld"]
+	path = xiaonanln/goworld
+	url = https://github.com/xiaonanln/goworld.git
+[submodule "google/go-github"]
+	path = google/go-github
+	url = https://github.com/google/go-github.git
+[submodule "Grasscutters/Grasscutter"]
+	path = Grasscutters/Grasscutter
+	url = https://github.com/Grasscutters/Grasscutter.git
+[submodule "gradle/gradle"]
+	path = gradle/gradle
+	url = https://github.com/gradle/gradle.git
+[submodule "hashicorp/consul"]
+	path = hashicorp/consul
+	url = https://github.com/hashicorp/consul.git
+[submodule "hashicorp/packer"]
+	path = hashicorp/packer
+	url = https://github.com/hashicorp/packer.git
+[submodule "junit-team/junit5"]
+	path = junit-team/junit5
+	url = https://github.com/junit-team/junit5.git
+[submodule "junit-team/junit5-samples"]
+	path = junit-team/junit5-samples
+	url = https://github.com/junit-team/junit5-samples.git
+[submodule "labstack/echo"]
+	path = labstack/echo
+	url = https://github.com/labstack/echo.git
+[submodule "lonng/nano"]
+	path = lonng/nano
+	url = https://github.com/lonng/nano.git
+[submodule "micro/micro"]
+	path = micro/micro
+	url = https://github.com/micro/micro.git
+[submodule "moby/moby"]
+	path = moby/moby
+	url = https://github.com/moby/moby.git
+[submodule "name5566/leaf"]
+	path = name5566/leaf
+	url = https://github.com/name5566/leaf.git
+[submodule "nats-io/nats.go"]
+	path = nats-io/nats.go
+	url = https://github.com/nats-io/nats.go.git
+[submodule "prometheus/prometheus"]
+	path = prometheus/prometheus
+	url = https://github.com/prometheus/prometheus.git
+[submodule "protocolbuffers/protobuf-go"]
+	path = protocolbuffers/protobuf-go
+	url = https://github.com/protocolbuffers/protobuf-go.git
+[submodule "pseudomuto/protoc-gen-doc"]
+	path = pseudomuto/protoc-gen-doc
+	url = https://github.com/pseudomuto/protoc-gen-doc.git
+[submodule "qmuntal/stateless"]
+	path = qmuntal/stateless
+	url = https://github.com/qmuntal/stateless.git
+[submodule "sirupsen/logrus"]
+	path = sirupsen/logrus
+	url = https://github.com/sirupsen/logrus.git
+[submodule "sjwhitworth/golearn"]
+	path = sjwhitworth/golearn
+	url = https://github.com/sjwhitworth/golearn.git
+[submodule "spf13/viper"]
+	path = spf13/viper
+	url = https://github.com/spf13/viper.git
+[submodule "spring-projects/spring-boot"]
+	path = spring-projects/spring-boot
+	url = https://github.com/spring-projects/spring-boot.git
+[submodule "spring-projects/spring-framework"]
+	path = spring-projects/spring-framework
+	url = https://github.com/spring-projects/spring-framework.git
