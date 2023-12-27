@@ -1,0 +1,24 @@
+[submodule "allaboutapps/go-starter"]
+	path = allaboutapps/go-starter
+	url = https://github.com/allaboutapps/go-starter.git
+[submodule "eclipse-vertx/vert.x"]
+	path = eclipse-vertx/vert.x
+	url = https://github.com/eclipse-vertx/vert.x.git
+[submodule "etcd-io/etcd"]
+	path = etcd-io/etcd
+	url = https://github.com/etcd-io/etcd.git
+[submodule "exercism/go"]
+	path = exercism/go
+	url = https://github.com/exercism/go.git
+[submodule "firebase/quickstart-js"]
+	path = firebase/quickstart-js
+	url = https://github.com/firebase/quickstart-js.git
+[submodule "firebase/firebase-android-sdk"]
+	path = firebase/firebase-android-sdk
+	url = https://github.com/firebase/firebase-android-sdk.git
+[submodule "firebase/firebase/firebase-android-sdk"]
+	path = firebase/firebase/firebase-android-sdk
+	url = https://github.com/firebase/firebase-android-sdk.git
+[submodule "gin-gonic/gin"]
+	path = gin-gonic/gin
+	url = https://github.com/gin-gonic/gin.git
