@@ -16,9 +16,6 @@
 [submodule "firebase/firebase-android-sdk"]
 	path = firebase/firebase-android-sdk
 	url = https://github.com/firebase/firebase-android-sdk.git
-[submodule "firebase/firebase/firebase-android-sdk"]
-	path = firebase/firebase/firebase-android-sdk
-	url = https://github.com/firebase/firebase-android-sdk.git
 [submodule "gin-gonic/gin"]
 	path = gin-gonic/gin
 	url = https://github.com/gin-gonic/gin.git
