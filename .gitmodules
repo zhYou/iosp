@@ -112,3 +112,24 @@
 [submodule "sjwhitworth/golearn"]
 	path = sjwhitworth/golearn
 	url = https://github.com/sjwhitworth/golearn.git
+[submodule "eclipse-vertx/vertx-json-schema"]
+	path = eclipse-vertx/vertx-json-schema
+	url = https://github.com/eclipse-vertx/vertx-json-schema.git
+[submodule "google/guava"]
+	path = google/guava
+	url = https://github.com/google/guava.git
+[submodule "unicode-org/icu"]
+	path = unicode-org/icu
+	url = https://github.com/unicode-org/icu.git
+[submodule "ReactiveX/RxJava"]
+	path = ReactiveX/RxJava
+	url = https://github.com/ReactiveX/RxJava.git
+[submodule "stateless4j/stateless4j"]
+	path = stateless4j/stateless4j
+	url = https://github.com/stateless4j/stateless4j.git
+[submodule "spring-projects/spring-statemachine"]
+	path = spring-projects/spring-statemachine
+	url = https://github.com/spring-projects/spring-statemachine.git
+[submodule "stateless4j/stateless4j-sample"]
+	path = stateless4j/stateless4j-sample
+	url = https://github.com/stateless4j/stateless4j-sample.git
