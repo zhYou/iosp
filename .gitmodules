@@ -206,3 +206,6 @@
 	path = vert-x3/vertx-examples
 	url = https://github.com/vert-x3/vertx-examples.git
 	ignore = all
+[submodule "spring-projects/spring-petclinic"]
+	path = spring-projects/spring-petclinic
+	url = https://github.com/spring-projects/spring-petclinic.git
