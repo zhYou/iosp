@@ -133,3 +133,24 @@
 [submodule "stateless4j/stateless4j-sample"]
 	path = stateless4j/stateless4j-sample
 	url = https://github.com/stateless4j/stateless4j-sample.git
+[submodule "dotnet-state-machine/stateless"]
+	path = dotnet-state-machine/stateless
+	url = https://github.com/dotnet-state-machine/stateless.git
+[submodule "eclipse-vertx/vertx-codegen"]
+	path = eclipse-vertx/vertx-codegen
+	url = https://github.com/eclipse-vertx/vertx-codegen.git
+[submodule "eclipse-vertx/vertx-junit5"]
+	path = eclipse-vertx/vertx-junit5
+	url = https://github.com/eclipse-vertx/vertx-junit5.git
+[submodule "eclipse-vertx/vertx-service-resolver"]
+	path = eclipse-vertx/vertx-service-resolver
+	url = https://github.com/eclipse-vertx/vertx-service-resolver.git
+[submodule "eclipse-vertx/vertx-launcher"]
+	path = eclipse-vertx/vertx-launcher
+	url = https://github.com/eclipse-vertx/vertx-launcher.git
+[submodule "eclipse-vertx/vertx-virtual-threads"]
+	path = eclipse-vertx/vertx-virtual-threads
+	url = https://github.com/eclipse-vertx/vertx-virtual-threads.git
+[submodule "vert-x3/vertx-examples"]
+	path = vert-x3/vertx-examples
+	url = https://github.com/vert-x3/vertx-examples.git
