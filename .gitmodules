@@ -1,212 +1,161 @@
+[submodule]
+    ignore = all
 [submodule "allaboutapps/go-starter"]
 	path = allaboutapps/go-starter
 	url = https://github.com/allaboutapps/go-starter.git
-	ignore = all
 [submodule "eclipse-vertx/vert.x"]
 	path = eclipse-vertx/vert.x
 	url = https://github.com/eclipse-vertx/vert.x.git
-	ignore = all
 [submodule "etcd-io/etcd"]
 	path = etcd-io/etcd
 	url = https://github.com/etcd-io/etcd.git
-	ignore = all
 [submodule "exercism/go"]
 	path = exercism/go
 	url = https://github.com/exercism/go.git
-	ignore = all
 [submodule "firebase/quickstart-js"]
 	path = firebase/quickstart-js
 	url = https://github.com/firebase/quickstart-js.git
-	ignore = all
 [submodule "firebase/firebase-android-sdk"]
 	path = firebase/firebase-android-sdk
 	url = https://github.com/firebase/firebase-android-sdk.git
-	ignore = all
 [submodule "gin-gonic/gin"]
 	path = gin-gonic/gin
 	url = https://github.com/gin-gonic/gin.git
-	ignore = all
 [submodule "gofiber/fiber"]
 	path = gofiber/fiber
 	url = https://github.com/gofiber/fiber.git
-	ignore = all
 [submodule "go-gorm/gorm"]
 	path = go-gorm/gorm
 	url = https://github.com/go-gorm/gorm.git
-	ignore = all
 [submodule "goinaction/code"]
 	path = goinaction/code
 	url = https://github.com/goinaction/code.git
-	ignore = all
 [submodule "go-kit/kit"]
 	path = go-kit/kit
 	url = https://github.com/go-kit/kit.git
-	ignore = all
 [submodule "golang/example"]
 	path = golang/example
 	url = https://github.com/golang/example.git
-	ignore = all
 [submodule "golang/net"]
 	path = golang/net
 	url = https://github.com/golang/net.git
-	ignore = all
 [submodule "golang/protobuf"]
 	path = golang/protobuf
 	url = https://github.com/golang/protobuf.git
-	ignore = all
 [submodule "xtaci/gonet"]
 	path = xtaci/gonet
 	url = https://github.com/xtaci/gonet.git
-	ignore = all
 [submodule "xiaonanln/goworld"]
 	path = xiaonanln/goworld
 	url = https://github.com/xiaonanln/goworld.git
-	ignore = all
 [submodule "google/go-github"]
 	path = google/go-github
 	url = https://github.com/google/go-github.git
-	ignore = all
 [submodule "Grasscutters/Grasscutter"]
 	path = Grasscutters/Grasscutter
 	url = https://github.com/Grasscutters/Grasscutter.git
-	ignore = all
 [submodule "gradle/gradle"]
 	path = gradle/gradle
 	url = https://github.com/gradle/gradle.git
-	ignore = all
 [submodule "hashicorp/consul"]
 	path = hashicorp/consul
 	url = https://github.com/hashicorp/consul.git
-	ignore = all
 [submodule "hashicorp/packer"]
 	path = hashicorp/packer
 	url = https://github.com/hashicorp/packer.git
-	ignore = all
 [submodule "junit-team/junit5"]
 	path = junit-team/junit5
 	url = https://github.com/junit-team/junit5.git
-	ignore = all
 [submodule "junit-team/junit5-samples"]
 	path = junit-team/junit5-samples
 	url = https://github.com/junit-team/junit5-samples.git
-	ignore = all
 [submodule "labstack/echo"]
 	path = labstack/echo
 	url = https://github.com/labstack/echo.git
-	ignore = all
 [submodule "lonng/nano"]
 	path = lonng/nano
 	url = https://github.com/lonng/nano.git
-	ignore = all
 [submodule "micro/micro"]
 	path = micro/micro
 	url = https://github.com/micro/micro.git
-	ignore = all
 [submodule "moby/moby"]
 	path = moby/moby
 	url = https://github.com/moby/moby.git
-	ignore = all
 [submodule "name5566/leaf"]
 	path = name5566/leaf
 	url = https://github.com/name5566/leaf.git
-	ignore = all
 [submodule "nats-io/nats.go"]
 	path = nats-io/nats.go
 	url = https://github.com/nats-io/nats.go.git
-	ignore = all
 [submodule "prometheus/prometheus"]
 	path = prometheus/prometheus
 	url = https://github.com/prometheus/prometheus.git
-	ignore = all
 [submodule "protocolbuffers/protobuf-go"]
 	path = protocolbuffers/protobuf-go
 	url = https://github.com/protocolbuffers/protobuf-go.git
-	ignore = all
 [submodule "pseudomuto/protoc-gen-doc"]
 	path = pseudomuto/protoc-gen-doc
 	url = https://github.com/pseudomuto/protoc-gen-doc.git
-	ignore = all
 [submodule "qmuntal/stateless"]
 	path = qmuntal/stateless
 	url = https://github.com/qmuntal/stateless.git
-	ignore = all
 [submodule "sirupsen/logrus"]
 	path = sirupsen/logrus
 	url = https://github.com/sirupsen/logrus.git
-	ignore = all
 [submodule "spf13/viper"]
 	path = spf13/viper
 	url = https://github.com/spf13/viper.git
-	ignore = all
 [submodule "spring-projects/spring-boot"]
 	path = spring-projects/spring-boot
 	url = https://github.com/spring-projects/spring-boot.git
-	ignore = all
 [submodule "spring-projects/spring-framework"]
 	path = spring-projects/spring-framework
 	url = https://github.com/spring-projects/spring-framework.git
-	ignore = all
 [submodule "sjwhitworth/golearn"]
 	path = sjwhitworth/golearn
 	url = https://github.com/sjwhitworth/golearn.git
-	ignore = all
 [submodule "eclipse-vertx/vertx-json-schema"]
 	path = eclipse-vertx/vertx-json-schema
 	url = https://github.com/eclipse-vertx/vertx-json-schema.git
-	ignore = all
 [submodule "google/guava"]
 	path = google/guava
 	url = https://github.com/google/guava.git
-	ignore = all
 [submodule "unicode-org/icu"]
 	path = unicode-org/icu
 	url = https://github.com/unicode-org/icu.git
-	ignore = all
 [submodule "ReactiveX/RxJava"]
 	path = ReactiveX/RxJava
 	url = https://github.com/ReactiveX/RxJava.git
-	ignore = all
 [submodule "stateless4j/stateless4j"]
 	path = stateless4j/stateless4j
 	url = https://github.com/stateless4j/stateless4j.git
-	ignore = all
 [submodule "spring-projects/spring-statemachine"]
 	path = spring-projects/spring-statemachine
 	url = https://github.com/spring-projects/spring-statemachine.git
-	ignore = all
 [submodule "stateless4j/stateless4j-sample"]
 	path = stateless4j/stateless4j-sample
 	url = https://github.com/stateless4j/stateless4j-sample.git
-	ignore = all
 [submodule "dotnet-state-machine/stateless"]
 	path = dotnet-state-machine/stateless
 	url = https://github.com/dotnet-state-machine/stateless.git
-	ignore = all
 [submodule "eclipse-vertx/vertx-codegen"]
 	path = eclipse-vertx/vertx-codegen
 	url = https://github.com/eclipse-vertx/vertx-codegen.git
-	ignore = all
 [submodule "eclipse-vertx/vertx-junit5"]
 	path = eclipse-vertx/vertx-junit5
 	url = https://github.com/eclipse-vertx/vertx-junit5.git
-	ignore = all
 [submodule "eclipse-vertx/vertx-service-resolver"]
 	path = eclipse-vertx/vertx-service-resolver
 	url = https://github.com/eclipse-vertx/vertx-service-resolver.git
-	ignore = all
 [submodule "eclipse-vertx/vertx-launcher"]
 	path = eclipse-vertx/vertx-launcher
 	url = https://github.com/eclipse-vertx/vertx-launcher.git
-	ignore = all
 [submodule "eclipse-vertx/vertx-virtual-threads"]
 	path = eclipse-vertx/vertx-virtual-threads
 	url = https://github.com/eclipse-vertx/vertx-virtual-threads.git
-	ignore = all
 [submodule "vert-x3/vertx-examples"]
 	path = vert-x3/vertx-examples
 	url = https://github.com/vert-x3/vertx-examples.git
-	ignore = all
 [submodule "spring-projects/spring-petclinic"]
 	path = spring-projects/spring-petclinic
 	url = https://github.com/spring-projects/spring-petclinic.git
-	ignore = all
