@@ -159,3 +159,15 @@
 [submodule "spring-projects/spring-petclinic"]
 	path = spring-projects/spring-petclinic
 	url = https://github.com/spring-projects/spring-petclinic.git
+[submodule "apache/logging-log4j-samples"]
+	path = apache/logging-log4j-samples
+	url = https://github.com/apache/logging-log4j-samples.git
+[submodule "apache/logging-log4j2"]
+	path = apache/logging-log4j2
+	url = https://github.com/apache/logging-log4j2.git
+[submodule "vert-x3/vertx-gradle-starter"]
+	path = vert-x3/vertx-gradle-starter
+	url = https://github.com/vert-x3/vertx-gradle-starter.git
+[submodule "vert-x3/vertx-maven-starter"]
+	path = vert-x3/vertx-maven-starter
+	url = https://github.com/vert-x3/vertx-maven-starter.git
