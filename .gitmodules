@@ -171,3 +171,9 @@
 [submodule "vert-x3/vertx-maven-starter"]
 	path = vert-x3/vertx-maven-starter
 	url = https://github.com/vert-x3/vertx-maven-starter.git
+[submodule "AgoraIO/Agora-Chat-API-Examples"]
+	path = AgoraIO/Agora-Chat-API-Examples
+	url = https://github.com/AgoraIO/Agora-Chat-API-Examples
+[submodule "AgoraIO/Tools"]
+	path = AgoraIO/Tools
+	url = https://github.com/AgoraIO/Tools.git
